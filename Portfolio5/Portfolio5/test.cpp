@@ -5,6 +5,6 @@ using namespace std;
 int main()
 {
 	cout << "hi" << endl;
-	cout << "can commit la" << endl;
+	system("pause");
 	return 0;
 }
